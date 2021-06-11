@@ -1,0 +1,1060 @@
+Carbon Nanotubes
+ 
+By Chris Scoville, Robin Cole, Jason Hogg, Omar Farooque, and Archie Russell
+ 
+ 
+Introduction
+ 
+ 
+The Amazing and Versatile Carbon 
+
+ 
+Chemical basis for life
+ 
+With an atomic number of 6, Carbon is the 4th most abundant element in the Universe by 
+m
+ass after 
+(Hydrogen Helium and Oxygen
+).  
+It forms more compounds that any other element, with almost 10 
+million pure organic compounds. Abundance, together with the unique diversity of organic compounds 
+and their unusual polymer forming ability at the tem
+peratures commonly encountered on Earth makes 
+the element the chemical basis of all known life. 
+ 
+ 
+Carbon Nanotubes
+ 
+Carbon Nanotubes, long, thin cylinders of carbon, were discovered in 1991 by Sumio Iijima. These are 
+large macromolecules that are unique for
+ 
+their size, shape, and remarkable physical properties. They 
+can be thought of as a sheet of graphite (a hexagonal lattice of carbon) rolled into a cylinder. These 
+intriguing structures have sparked much excitement in recent years and a large amount of res
+earch has 
+been de
+dicated to their understanding. 
+Currently, the physical properties are still being discovered and 
+disputed. Nanotubes have a very broad range of electronic, thermal, and structural properties that 
+change depending on the different kinds of
+ 
+nanotube (defined by its diameter, length, and chirality, or 
+twist). To make things more interesting, besides having a single cylindrical wall (SWNTs), Nanotubes can 
+have multiple walls (MWNTs)
+--
+cylinders inside the other cylinders. 
+ 
+ 
+Carbon Nanotubes and
+ 
+
+ 
+
+means that the strategy of ever finer photolithography will have run its course; we have already seen a 
+progression from a micron, to 
+sub micron to 45 nm scale. Carbon Nanotubes, whose walls are just 1 
+atom thick, with diameters of only 1 to 2 nm, seems to be one of the perfect candidates to take us right 
+
+rbon Nanotubes 
+has a promising future! 
+ 
+ 
+Key properties of Carbon Nanotubes
+ 
+Carbon Nanot
+ubes are an example of true nanotechnology: they are less than 100 nanometers in 
+diameter and 
+can be as thin as 
+1 or 2 nm. They are molecules that can be manipulated ch
+emically and 
+physically in very useful ways. They open an incredible range of applications in materials science, 
+electronics, chemical processing, energy management, and many other fields. Some 
+properties include
+ 
+
+ 
+E
+xtraordinary electrical conductivit
+y, heat conductivity, and mechanical properties. 
+ 
+
+ 
+They are probably the best el
+ectron field
+-
+emitter known, largely due to their h
+igh 
+length
+-
+to
+-
+diameter ratio
+s
+ 
+
+ 
+As pure carbon polymers, they 
+can be manipulated using the well
+-
+known and the treme
+ndously 
+rich chemistry of 
+that element
+.
+ 
+ 
+ 
+Some of the above properties provide opportunity to modify their structure, and to optimize their 
+solubility and dispersion. These extraordinary characteristics give CNTs potential in numerous 
+applications. 
+ 
+ 
+Key a
+pplication areas
+ 
+  
+   
+
+ 
+Field Emitters/Emission:
+ 
+     
+
+ 
+Conductive or reinforced plastics
+ 
+     
+
+ 
+Molecular electronics: CNT based non volatile RAM
+ 
+     
+
+ 
+CNT based transistors
+ 
+     
+
+ 
+Energy Storage
+ 
+     
+
+ 
+CNT based fibers and fabrics
+ 
+     
+
+ 
+CNT based 
+ceramics
+ 
+     
+
+ 
+Biomedical applications etc ...
+ 
+ 
+Timeline References
+ 
+     
+
+ 
+http://www.answers.com/topic/timeline
+-
+of
+-
+carbon
+-
+nanotubes?cat=technology
+ 
+ 
+     
+
+ 
+http://www.pa.msu.edu/cmp/csc/nttimeline.html
+ 
+ 
+ 
+Properties of Ca
+rbon Nanotubes
+ 
+The structure of a carbon nanotube is formed by a layer of carbon atoms that are bonded together in a 
+hexagonal (honeycomb) mesh. This one
+-
+atom thick layer of carbon is called graphene, and it is wrapped 
+in the shape of a cylinder and bonded
+ 
+together to form a carbon nanotube. Nanotubes can have a single 
+outer wall of carbon, or they can be made of multiple walls (cylinders inside other cylinders of carbon). 
+Carbon nanotubes have a range of electric, thermal, and structural properties that ca
+n change based on 
+the physical design of the nanotube. 
+ 
+ 
+Single
+-
+walled carbon nanotube structure
+ 
+Single
+-
+walled carbon nanotubes can be formed in three different designs: Armchair, Chiral, and Zigzag. 
+The design depends on the way the graphene is wrapped in
+to a cylinder. For example, imagine rolling a 
+sheet of paper from its corner, which can be considered one design, and a different design can be 
+formed by rolling the paper from its edge. A single
+-
+
+of indi
+ces (n,m) called the chiral vector. The chiral vector is defined in the image below.
+ 
+ 
+ 
+
+s a 
+multiple of 3, then the nanotube is 
+described as "metallic" 
+(highly conducting), otherwise the nanotube 
+is a semiconductor. The Armchair design is always metallic while other designs can make the nanotube a 
+semiconductor. 
+ 
+ 
+Multi
+-
+walled carbon nanotube
+ 
+structure
+ 
+There are two structural models of multi
+-
+walled nanotubes. In the Russian Doll model, a carbon 
+nanotube contains another nano
+t
+u
+b
+e inside it (the inner nanotube has a smaller diameter than the 
+outer nanotube). In the Parchment model, a single gra
+phene sheet is rolled around itself multiple times, 
+resembling a rolled up scroll of paper. Multi
+-
+walled carbon nanotubes have similar properties to single
+-
+walled nanotubes, yet the outer walls on multi
+-
+walled nanotubes can protect the inner carbon 
+nanotub
+es from chemical interactions with outside materials. Multi
+-
+walled nanotubes also have a higher 
+tensile strength than single
+-
+walled nanotubes [7]. 
+ 
+ 
+S
+trength
+ 
+Carbon nanotubes have a higher tensile strength than steel and Kevlar. Their strength comes from t
+he 
+sp² bonds between the individual carbon atoms. This bond is even stronger than the sp³ bond found in 
+diamond. Under high pressure, individual nanotubes can bond together, trading some sp² bonds for sp³ 
+bonds. This gives the possibility of producing long
+ 
+nanotube wires. Carbon nanotubes are not only 
+strong, they are also elastic. You can press on the tip of a nanotube and cause it to bend without 
+damaging to the nanotube, and the nanotube will return to its original shape when the force is 
+removed. A nano
+tube's elasticity does have a limit, and under very strong forces, it is possible to 
+
+structure of the nanotube. Defects occur from atomic vacancies or a rear
+rangement of the carbon 
+bonds. Defects in the structure can cause a small segment of the nanotube to become weaker, which in 
+turn causes the tensile strength of the entire nanotube to weaken. The tensile strength of a nanotube 
+depends on the strength of th
+e weakest segment in the tube similar to the way the strength of a cahin 
+depends on the weakest link in the chain. 
+ 
+ 
+Electrical properties
+ 
+As mentioned previously, the structure of a carbon nanotube determines how conductive the nanotube 
+is. When the struc
+ture of atoms in a carbon nanotube minimizes the collisions between conduction 
+electrons and atoms, a carbon nanotube is highly conductive. The strong bonds between carbon atoms 
+also allow carbon nanotubes to withstand higher electric currents than copper.
+ 
+Electron transport 
+occurs only along the axis of the tube. Single walled nanotubes can route electrical signals at speeds up 
+to 10 GHz when used as interconnects on semi
+-
+conducting devices. Nanotubes also have a constant 
+resistively [10]. 
+ 
+ 
+Thermal Proper
+ties
+ 
+The strength of the atomic bonds in carbon nanotubes allows them to withstand high temperatures. 
+Because of this, carbon nanotubes have been shown to be very good thermal conductors. When 
+compared to copper wires, which are commonly used as thermal conduct
+ors, the carbon nanotubes can 
+transmit over 15 times the amount of watts per meter per Kelvin. The thermal conductivity of carbon 
+nanotubes is dependent on the temperature of the tubes and the outside environment [10]. 
+ 
+ 
+Potential Uses
+ 
+There are many potential applications for Carbon nanotubes from waterproof and tear resistant cloth 
+fabrics, concrete and steel like applications (a space elevator has even been proposed) based on the 
+property of strength, electrical circuits based on the 
+property of electrical conductivity, sensors based on 
+the property of thermal conductivity, vacuum proof food packaging, and even as a vessel for delivering 
+drugs. For the purpose of this paper we are going to focus on the applications related to nano
+-
+elet
+ronics. 
+ 
+ 
+Nano
+-
+Electronics 
+ 
+ 
+One of the most significant potential applications of 
+s
+ingle
+-
+walled nanotubes is believed to be in the 
+domain of nano
+-
+electronics. This is as a result of SWNT's being highly
+-
+conductive
+.
+ 
+I
+n fact
+, according to 
+[2] single
+-
+walled n
+anotube ropes are the most conductive carbon fibers known. Alternative 
+configurations of a carbon nanotube can result in the resultant material being semi
+-
+conductive like 
+silicon. 
+ 
+ 
+Conductivity in nanotubes is based on the degree of chirality 
+
+ 
+i
+.
+e
+.
+ 
+the d
+egree of twist and size of the 
+diameter of the actual nanotube 
+-
+ 
+which results in a nanotube that is actually extremely conductive 
+(making it suitable as an interconnect on an integrated circuit) or non
+-
+conductive (making it suitable as 
+the basis for semi
+-
+conductors). 
+ 
+ 
+Interconnect 
+ 
+Chip manufacturers require metallic compounds to serve as the basis for interconnects between 
+transistors on chips. Up until around seven years ago
+ 
+chip manufacturers used alumin
+um at which point 
+they switched to copper. Howeve
+r copper's resistance to electricity flow increases as the metals 
+dimensions decrease, 
+creating a lower bound for the size of copper based interconnects. By 2012 [11] it 
+is e
+x
+pected that higher performance chips com
+b
+ined with more tightly packed transistor
+s require 
+interconnects less than 40 nanometers wide, at which point copper's resistance will prove to be 
+ineffective as an interconnection technology. 
+ 
+ 
+With high conductivity and small dimensions, c
+arbon nanotubes may provide an alternative 
+interconnect 
+option to copper.
+ 
+ 
+Toshiba and Stanford University recently published 
+results
+[3] 
+demonstrating a 
+CNT
+-
+based interconnect operating at 1Ghz on a chip containing 11000 transistors on a 
+chip the size of 1/100th of a square inch. 
+ 
+ 
+This 
+research 
+demonstrates th
+at carbon nanotubes are not just a viable alternative to copper, but that 
+they can also be used alongside existing IC manufacturing processes. Another advantage to carbon 
+nanotubes is that unlike copper there is no need to embed the interconnects int
+o tren
+ches on the circuit 
+board, which could 
+make 
+for a simpler 
+manufacturing 
+process
+. 
+ 
+ 
+Transistor
+s
+ 
+ 
+Transistors form the basis for modern integrated circuits functioning as digital switches. Alternative 
+configurations of carbon
+-
+nanotubes result in defects bein
+g present that allow single walled nanotubes 
+to act as transistors. Nano
+tube based switches 
+the size of an individual electron had been envisioned but 
+had originally required cryogenic like temperatures. 
+ 
+ 
+In such a switch a molecule can be positioned insi
+de a carbon nanotube to affect the electronic current 
+flowing across it. The result is a molecular
+-
+scare gate in which the position of the molecule controls the 
+flow of the electrical current. In this model, the gate is about one nanometer in size, or thre
+e orders of 
+magnitude smaller than a silicon chip. In 2001 researchers [4] demonstrated that 
+nanotube transistors 
+could be realized that would operate at room temperature. IBM has also demonstrated fabrication of 
+nanotube transistors [5]. 
+ 
+ 
+Energy Producti
+on and Storage
+ 
+Carbon Nanotube technology also holds promise for a wide range of energy
+-
+related applications. 
+ 
+ 
+Batteries
+ 
+Mo
+st portable electronic devices 
+use rechargeable lithium
+-
+ion batteries. These batteries release charge 
+when lithium ions move between
+ 
+two electrodes 
+-
+ 
+one of which is graphite and the other is metal oxide. 
+Researchers at the University of North Carolina [9] have demonstrated that by replacing the graphite 
+with SWCNT
+s
+ 
+they can 
+double storage capacity.
+ 
+ 
+Electrodes made of carbon nanotubes
+ 
+can be ten times thinner and lighter than amorphous carbon 
+electrodes and their conductivity is more than one thousan
+d times greater. In some cases, such as 
+electric vehicles
+, the reduction in weight can make a significant reduction in 
+battery 
+power 
+requirements. Carbon nanotubes have been used in supercapacitors producing a power density of 
+30kw/kg (compared to 4kw/kg for commercially available devices). Such supercapacitors could 
+drastically reduce the time it takes to recharge devices such as
+ 
+laptops and cell phones. 
+ 
+ 
+Ultra
+-
+thin flexible batteries have been made with CNT infused paper [13]. Ionic liquid is soaked into the 
+paper as the battery's electrolyte. Electrolytes in human blood, sweat, and urine can also help to power 
+the battery which
+ 
+may be useful in implantable medical devices. These batteries can be rolled, folded, or 
+cut without loss of efficiency. They can also be stacked to boost their output power. Although the 
+materials used in the batteries, which are over 90% cellulose, are v
+ery inexpensive 
+an inexpensive 
+method of mass
+-
+production has not yet been developed. 
+ 
+ 
+Solar Cells
+ 
+Researchers at Georgia Tech Research Institute [14] have created solar cells consisting of 100
+-
+micrometer
+-
+high towers built of CNTs grown on iron
+-
+coated sili
+con wafers. There are 40,000 of these 
+towers in each square centimeter of the surface; Each tower is an array of millions of vertically aligned 
+CNTs. These cells absorb more light as it reflects off the sides of the towers. Unlike typical solar cells that 
+have peak efficiency when the sun is at 90º, these cells have two peaks at 45° and operate with 
+relatively high efficiency during most of the day. This makes them particularly appropriate for 
+applications in space because it eliminates the requirement of h
+aving a mechanical means of orienting 
+the cells to face the sun. 
+ 
+ 
+Current hurdles
+ 
+ 
+There 
+are several remaining obstacles, technical and non
+-
+technical 
+to CNT success.   Covering these in 
+detail is 
+length and probably impossible;  
+flipped on its head,  such
+ 
+a passage would be a path to success 
+with nanotubes
+!  B
+ut here are a couple of the major impediments.
+ 
+ 
+Electronic Heterogeneity
+ 
+One problem with nanotube production 
+for electronics 
+is that batches of nanotubes are heterogeneous 
+mixtur
+es of metallic and se
+miconducting tube types
+. 
+ 
+Electrical d
+evices typically 
+require 
+these types
+ 
+to 
+be separated
+, but so far it has been difficult to tune production in this regard
+ 
+[6]
+.
+  
+There also remain 
+issues with doping, or tuning conductivity, and electrical behavior at co
+ntact points. (Rogers, UIUC).
+ 
+ 
+Orientation
+ 
+A problem with nanotubes where recent progress has been made is controlling their orientation. 
+Nanotubes are commonly grown in a chaotic organization (
+affectionately known as 
+a "rat's nest")
+,
+ 
+which 
+are difficult t
+o use in microprocessors. Recently John Rogers and his team at the University of Illinois, 
+Urbana Champagne, discovered that carefully growing nanotubes on quartz wafers can lead to a highly 
+organized configuration. 
+ 
+ 
+Size and Dens
+i
+ty
+ 
+The size of manufactu
+red nanotubes typically varies widely. For commercial use, nanotube 
+manufacturers will need to make size more consistent
+ 
+[6]
+. 
+  
+Though nanotubes are very narrow, 
+nanotube 
+matrices 
+typically have quite large (100nm) spacing between tubes. 
+ 
+ 
+Export Policy
+ 
+As
+ 
+with other multi
+-
+use technologies, nanotubes may be subject to export controls. Finding information 
+about this was difficult, multiple sources were unaware of restrictions but in at least one case a foreign 
+researcher was denied access to nanotubes. Adeli
+na Santos, a Brazilian nuclear scientist, says a U.S. 
+based supplier refused to ship him nanotubes due to federal regulations. However, restrictions seem 
+diff
+icult to enforce; Santos had a 
+friend smuggle a gram of nanotubes to him
+ 
+Current customs protocols
+ 
+probably do not place a priority on detecting nanotubes.
+[20]
+ 
+ 
+Export restrictions could slow adoption of nanotube technologies and prevent standardization. 
+Regulation of commerce in nanotube technology will increase costs. 
+ 
+ 
+ 
+ 
+Environmental concerns
+ 
+The 
+environmental risks of nanotubes are still unclear
+[6]
+. Naturally occurring carbon is fairly 
+benign, 
+and is largely unregulated, but 
+nanot
+ubes 
+interact with the environment differently
+. 
+There have been several studies performed to test the effects of car
+bon nanotubes on living 
+systems
+. 
+ 
+
+ 
+Fruit fly larvae fed a diet containing nanotubes appeared to develop normally.
+[7]
+ 
+ 
+
+ 
+One study showed that CNTs delay embryo development in zebrafish, 
+but
+ 
+the fish otherwise 
+appeared normal.
+[8]
+. 
+ 
+
+ 
+Mice lungs became inflamed when exposed to nanotubes. Though the inflammation subsided 
+within a 
+few months, this has stark parallels to the affect of asbestos on human lungs.
+[9]
+. 
+ 
+
+ 
+Some human tumor cells seem to prolifer
+ate more rapidly in the presence of nanotubes
+[10]
+. 
+ 
+In some situations, coatings applied to the nanotubes, rather than the nanotubes themselves, 
+may become environmental culprits.   The solar cells described earlier are coated with a 
+cadmium
+-
+telluride mix, which would be too toxic for
+ 
+widespread use.   Perhaps most sobering 
+to consider is that some forms of nanotubes biodegrade slowly, tubes released into the 
+environment may make their way into our food supply, and from there, throughout our bodies.   
+Some researchers believe that nano
+tube use in electronics is probably not very risky because of 
+the small volumes involved, but this argument hinges on computing being limited to small 
+numbers of devices. 
+ 
+Some are pushing for more investigation 
+and regulation. One possibility is treating 
+nanotubes as a new chemical, rather than 
+as an isoform of Carbon.  Another approach 
+is to adjust regulations on toxic exposures 
+to take into account the 
+number of particles
+ 
+in an exposure or their surface area, as 
+opposed to the mass.
+[
+12]
+. 
+ 
+However, there is a silver lining.   CNTs also 
+hold promise for cleaning up polluted 
+environments. Nanotubes are very 
+effective at absorbing chemicals from their 
+surroundings and have possible 
+applications in water filtration and in air 
+filters, such
+ 
+as smokestacks.
+[11]
+ 
+Figure 
+1
+:  
+Pathways after CNT inhalation (A 
+Jain, 
+Nanotoxicology)
+ 
+Entrenched dominance
+ 
+The single biggest hurdle to nanotube success in 
+integrated circuits 
+is the continued success of
+ 
+s
+ilicon
+-
+based devices. Nanotubes have some outstanding properties, but exploiting these 
+properties to build robust chips could prove very difficult. One company, Nantero, received 
+funding in 2001 for a nanotube
+-
+based RAM (NRAM) product. At the time, NRAM 
+promised to 
+be better than DRAM in several dimensions, but, seven years later they don't have a product or 
+even a vague timeline for when something might be available. By the time a product is 
+released, if ever, NRAMs advantages will undoubtedly have dimin
+ished. Competing with silicon 
+apples
+-
+to
+-
+apples has been the downfall of other promising materials technologies; CNT 
+nanofabrics
+, which use a design paradigm that considers defects in nanomaterials to be the 
+norm rather than the exception, hold considerable promise, but nanotube
+-
+based products will 
+probably find their first successes in 
+specialized applications such as interconnect
+. 
+ 
+Fabrication
+ 
+ 
+The furtherment of fabrication technology will require the ability to target nanotubes with high yield of 
+specified lengths, diameter, number of walls, and chirality. There are several procedures that have been 
+developed for fabricating CNT
+ 
+structures. In this section, we give an overview of a few of them. 
+ 
+ 
+Arc Discharge Method
+ 
+A chamber containing a graphite cathode and anode contains evaportated carbon molecules in a buffer 
+gas such as helium. The chamber also contains some amount of meta
+l catalyst particles (such as cobalt, 
+nickel, and/or iron). DC current is passed through the chamber while the chamber is also pressurized 
+and heated to ~4000K. In the course of this procedure, about half of the evaporated carbon solidifies on 
+the cathode 
+tip into a "cylindrical hard deposit." The remaining carbon condenses into "chamber soot" 
+around the walls of the chamber and "cathode soot" on the cathode. 
+ 
+ 
+The cathode soot and chamber soot yield either single
+-
+walled or multi
+-
+walled carbon nanotubes. Th
+e 
+cylindrical hard deposit doesn't yield anything particularly interesting. 
+ 
+ 
+The choice of buffer gas, the pressure of the chamber, and the metallic catalyst added to the chamber. 
+Apparently the nanotubes grow from the surfaces of the metallic catalyst pa
+rticles. These choices 
+determine the shape and whether they are single
+-
+ 
+or multi
+-
+walled. 
+ 
+ 
+The advantage of this method is that it produces a large quantity of nanotubes. But the main 
+disadvantage is that there is relatively little control over the alignment (i.e. chirality) of the produced 
+nanotubes, which is critical to their characterization 
+and role. Furthermore, due to the metallic catalyst 
+included in the reaction, the products need to be purified afterwards. Methods such as oxidation, 
+centrifugation, filtration, and acid treatment have been used. 
+ 
+ 
+Laser Ablation Method
+ 
+A quartz tube conta
+ining a block of graphite is heated in a furnace. A flow of argon gas is maintained 
+throughout the reaction. A laser is used to vaporize the graphite within the quartz. The carbon 
+vaporizes, is carried away by the argon, and condenses downstream on the coo
+ler walls of the quartz. 
+This condensation is SWNT and metallic particles. Thereafter, purification methods are applied to this 
+mixture. 
+ 
+ 
+The key to the proper formation of the condensed nanotubes is that the location where the carbon 
+atoms begin to conde
+nse should be set up as a curved sheet of graphene with a catalyst metallic atom 
+nearby. As carbon atoms begin to attach and form rings, the metallic atom, if it has the proper 
+electonegativity properties, will preserve the open edge of the tube and preven
+t it from drawing to a 
+close. The authors of the paper describe this phenomenon as the "scooter" effect, because the metallic 
+atom "scoots" around the open edge, preventing it from closing. 
+ 
+ 
+The large atom in this figure is the "scooting" metallic atom 
+ 
+ 
+Advantages of this technique include a relatively high yield and relatively low metallic impurities, since 
+the metallic ato
+ms involved tend to evaporate from the end of the tube once it is closed. One 
+disadvantage is that the nanotubes produced from this method are not necessarily uniformly straight, 
+but instead do contain some branching. 
+ 
+ 
+Chemical Vapor Deposition
+ 
+The CVD ap
+proach allows CNTs to grow on a variety of materials, which makes it more viable to 
+integrate into already existent processes for synthesizing electronics. This process involves the chemical 
+breakdown of a hydrocarbon on a substrate. 
+ 
+ 
+It's already been sh
+own in previous methods, such as the arc discharge method, that a main way to 
+grow carbon nanotubes is by exciting carbon atoms that are in contact with metallic catalyst particles. 
+ 
+The CVD method extends this idea by embedding these metallic particles (i
+ron, in the case of the 
+seminal paper) in properly aligned holes in a substrate (silicon, in this case). Essentially, tubes are drilled 
+into silicon and implanted with iron nanoparticles at the bottom. Then, a hydrocarbon such as acetylene 
+is heated and de
+composed onto the substrate. The carbon comes into contact with the metal particles 
+embedded in the holes and start to form nanotubes that are "templated" from the shape of the tunnel. 
+It turns out that the carbon nanotubes grow very long and very well ali
+gned, in the angle of the tunnel. 
+ 
+ 
+The advantages of this method are that the yield is very high, the alignment of the nanotubes is 
+consistent (whic
+h is crucial for creating particular types of nanotubes, e.g. semiconductor or metallic), 
+and the size of the growth area is theoretically arbitrary. 
+ 
+ 
+The main disadvantage is that, though the size of the growth area is basically arbitrary, large sized ar
+eas 
+(several millimeters) tend to crack, shrink, and otherwise warp. The substrates need to be dried very 
+thoroughly to prevent against this. 
+ 
+ 
+n
+-
+hexane Pyrolysis
+ 
+Researchers developed a method to synthesize large, long single walled nanotube bundles in a 
+vertical 
+furnace by pyrolyzing hexane molecules. These n
+-
+hexane molecules are mixed with certain other 
+chemicals that have been shown independently to help with growth of nanotubes. These are burned 
+(pyrolyzed) at a very high temperature in a flow of hydro
+gen and other optional gases. According to the 
+paper, using a different hydrocarbon or using a different gas prevented the formation of long 
+nanotubes. 
+ 
+ 
+The primary advantage of this method is that it produces macroscopic nanotube bundles 
+("microtubes"): 
+their diameters are typically larger than that of human hair, and their length is several 
+centimeters. The disadvantage is that the alignment is not as produced from other methods, making it 
+viable for creating "microcables", but not nanotubes with precise
+ 
+electrical properties. Another 
+disadvantage is that from the researchers' measurements, the elasticity of these nanotube bundles is 
+not as great as hoped (i.e. they are more brittle). 
+ 
+ 
+Conclusion
+ 
+There is much about carbon nanotubes that is still unknown
+. More research needs to be done regarding 
+the environmental and health impacts of producing large quantities of them. There is also much work to 
+be done towards cheaper mass
+-
+production and incorporation with other materials before many of the 
+current appl
+ications being researched can be commercialized. There is no doubt however that carbon 
+nanotubes will play a significant role in a wide range of commercial applications in the very near future. 
+Not only will they help create some very cool tech gadgets, th
+ey may also help solve the world's energy 
+problems. 
+ 
+ 
+ 
+References 
+ 
+[1] 
+http://en.wikipedia.org/wiki/SWNT#Single
+-
+walled
+ 
+ 
+[2] CheapTubes.com CNT 101 Presentation (2008, April 24). In 
+http://www.cheaptubesinc.com/cnt101.htm
+ 
+ 
+[3] A 1 GHz Integrated Circuit with Carbon Nanotube Int
+erconnects and Silicon Transistors 
+-
+ 
+http://nano.stanford.edu/publication.php?id=135
+ 
+ 
+[4] Carbon Nanotube Single
+-
+Electron Transistors at Room
+ 
+Temperature. By Henk W. Ch. Postma, Tijs 
+Teepen, Zhen Yao,* Milena Grifoni, Cees Dekker 
+http://www.sciencemag.org/cgi/content/
+full/293/5527/76
+ 
+ 
+[5] Nanotube Field Effect Transistor 
+-
+ 
+http://www.research.ibm.com/nanoscience/fet.html
+ 
+ 
+[6] (Future Of Computing: Carbon
+ 
+Nanotubes And Superconductors To Replace The Silicon Chip. 
+ScienceDaily.) 
+ 
+[7] Carbon nanotube. (2008, April 24). In Wikipedia, The Free Encyclopedia. Retrieved 03:04, April 28, 
+2008, from 
+http://en.wikipedia.org/w/index.php?title=Carbon_nanotube&oldid=207910667
+ 
+ 
+[8] Graphene. (2008, April 27). In Wikipedia, The Free Encyclopedia. Retrieved 0
+3:01, April 28, 2008, 
+from 
+http://en.wikipedia.org/w/index.php?title=Graphene&oldid=208624307
+ 
+ 
+[9] Nano
+tubes pack power. 
+http://www.trnmag.com/Stories/2002/022702/Nanotubes_pack_power_022702
+.html
+ 
+ 
+[10] Physical properties of carbon nanotubes. 
+http://www.pa.msu.edu/cmp/csc/ntproperties/
+ 
+ 
+[11] Carbon
+-
+Nanotube Wiring Gets Real. IEEE 
+-
+ 
+Spect
+rum 04.08. 
+http://blogs.spectrum.ieee.org/articles/2008/03/carbonnano
+tube_wiring_gets_rea.html
+ 
+ 
+[12] Nanotubes and their implications for computing. 
+http://www.
+rpi.edu/dept/phys/ScIT/FutureTechnologies/nano/nanotubes.html
+ 
+ 
+[13] Carbon Nanotube Based NanoComposite Paper Energy Storage May Replace Batteries 
+-
+ 
+http://www.azonano.com/news.asp?newsID=4710
+ 
+ 
+[14] Nano
+-
+Manhattan: 3D Solar Cells Boost Efficiency While Reducing Size, Weight and Complexity of 
+Photovoltaic Arrays 
+-
+ 
+http://www.gtri.gatech.edu/casestudy/3d
+-
+solar
+-
+cells
+-
+boost
+-
+efficiency
+ 
+ 
+[15] S. lijima, Nature 354, 56 (1991). 
+ 
+[16] Crystalline Ropes of Metallic Carbon Nanotubes. Science, New Series, Vol. 
+273, No. 5274 (Jul. 26, 
+1996), pp. 483
+-
+487 
+ 
+[17] Large
+-
+Scale Synthesis of Aligned Carbon Nanotubes. W. Z. Li, S. S. Xie, * L. X. Qian, B. H. Chang, B. S. 
+Zou, W. Y. Zhou, R. A. Zhao, G. Wang 
+ 
+[18] T. W. Ebbesen and P. M. Ajayan, Nature 358, 220 (1992); D. 
+T. Colbert etal., Science 266,1218 
+(1994). 
+ 
+[19] Direct Synthesis of Long Single
+-
+Walled Carbon Nanotube StrandsDirect Synthesis of Long Single
+-
+Walled Carbon Nanotube Strands. H. W. Zhu, C. L. Xu, D. H. Wu, B. Q. Wei, R. Vajtai, P. M. Ajayan 
+ 
+Retrieved from
+ 
+"
+http://cubist.cs.washington.edu/wiki/index.php/Csep590a
+-
+c
+"
+ 
+[20] 
+BRAZIL: Warning 
+-
+ 
+Th
+ese Computers Come With Strings Attached 
+http://www.ipsnews.net/news.asp?idnews=39480
+ 
