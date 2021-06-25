@@ -1,6 +1,6 @@
 # DueDashAssignment
 
-
+<h1>Web and PDF file Data Extraction</h1>
 1. Summarization of Text:- Generated the summary from the Source text, Further Drawn the Word Cloud 
 (a). From Any Web Link - could be generated summary x percentage (eg. 50%) of the Original web source Text data. & finally created a Word cloud.
 (b). From Any PDF file - Generated summary of the .pdf file, and their word cloud
@@ -17,3 +17,5 @@ Colab: https://colab.research.google.com/drive/1uWLS3FeO1U9jUCQCjtlQxJMstc28GupJ
 Further Extracted Text and Image Data from the PDF file format.
 <br/>
 Colab: https://colab.research.google.com/drive/1lyBAsNTcgpi0-7yh7Mycbx2qvCEhQKAD?usp=sharing
+
+<h6>Technologies used: Python3, BeautifulSoup/bs4, PyPDF2, SpaCy, NLTK, WordCloud, NumPy, Shutil, OS, parse, requests</h6>
