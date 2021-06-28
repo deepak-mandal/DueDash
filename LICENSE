@@ -35,12 +35,6 @@ shutil :- License: GNU General Public License v2.0
 
 
 
-fitz
-
-
-
-
-
 
 spacy :- The MIT License (MIT)  
 [free for commercial use / open-source]
@@ -60,6 +54,16 @@ wordcloud :- License: MIT
 
 PyPDF2 :- BSD licenses 
 [commercial available for free]
+
+
+
+
+
+
+fitz :- BSD License (BSD (3-clause))
+
+
+
 
 
 
