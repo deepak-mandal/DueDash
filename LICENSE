@@ -27,6 +27,7 @@ requests:- Apache License
 
 
 shutil :- License: GNU General Public License v2.0
+(It comes under Python's standard utility modules.)
 {https://www.programcreek.com/python/example/618/shutil.copyfileobj}
 
 
