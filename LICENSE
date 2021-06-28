@@ -1,4 +1,9 @@
-bs4 :- The MIT License (MIT)
+Python3.9.5 :- LICENSE AGREEMENT is between the Python Software Foundation ("PSF"), and the Individual or Organization ("Licensee")
+{https://docs.python.org/3/license.html#psf-license}
+
+
+
+bs4/BeautifulSoup :- The MIT License (MIT)
 {https://github.com/akalongman/python-beautifulsoup/blob/master/LICENSE}
 
 
@@ -8,7 +13,51 @@ requests:- Apache License
 
 
 
-GNU AFFERO GPL 3.0
+
+shutil :- License: GNU General Public License v2.0
+{https://www.programcreek.com/python/example/618/shutil.copyfileobj}
+
+
+
+
+fitz
+
+
+
+spacy
+
+
+
+
+
+
+
+from spacy.lang.en.stop_words import STOP_WORDS
+
+
+
+
+
+from string import punctuation
+
+
+
+
+
+
+from heapq import nlargest
+
+
+
+
+from wordcloud import WordCloud, STOPWORDS
+
+
+
+
+
+PyPDF2
+
 
 
 
