@@ -62,7 +62,8 @@ PyPDF2 :- BSD licenses
 
 
 fitz :- BSD License (BSD (3-clause))
-
+{open-source AGPL and commercial license agreements}
+(alternative to MuPDF / PyMuPDF is PyPDF2 with Pillow libraries )
 
 
 
