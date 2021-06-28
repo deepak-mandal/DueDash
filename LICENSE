@@ -1,5 +1,12 @@
+***List of utility***
+
+
+
 Python3.9.5 :- LICENSE AGREEMENT is between the Python Software Foundation ("PSF"), and the Individual or Organization ("Licensee")
 {https://docs.python.org/3/license.html#psf-license}
+
+
+
 
 
 
@@ -8,8 +15,13 @@ bs4/BeautifulSoup :- The MIT License (MIT)
 
 
 
+
+
 requests:- Apache License
 {https://github.com/opentracing-contrib/python-requests/blob/master/LICENSE}
+
+
+
 
 
 
@@ -20,11 +32,18 @@ shutil :- License: GNU General Public License v2.0
 
 
 
+
+
+
 fitz
 
 
 
-spacy
+
+
+
+spacy :- The MIT License (MIT)  
+[free for commercial use / open-source]
 
 
 
@@ -32,31 +51,15 @@ spacy
 
 
 
-from spacy.lang.en.stop_words import STOP_WORDS
-
-
-
-
-
-from string import punctuation
+wordcloud :- License: MIT
 
 
 
 
 
 
-from heapq import nlargest
-
-
-
-
-from wordcloud import WordCloud, STOPWORDS
-
-
-
-
-
-PyPDF2
+PyPDF2 :- BSD licenses 
+[commercial available for free]
 
 
 
